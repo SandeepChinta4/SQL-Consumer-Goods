@@ -75,7 +75,7 @@ This repository contains the solutions to the **SQL Challenge** presented by **C
 
 ## 🛠️ **Technologies Used**
 - SQL
-- MySQL/PostgreSQL (or any other SQL-based RDBMS)
+- MySQL
 - Data Analysis
 
 ## 🚀 **Getting Started**
