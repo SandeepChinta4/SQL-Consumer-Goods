@@ -80,8 +80,8 @@ This repository contains the solutions to the **SQL Challenge** presented by **C
 
 ## 🚀 **Getting Started**
 To explore the SQL queries and solutions:
--
--
+-  [SQL Queries](https://github.com/SandeepChinta4/SQL-Consumer-Goods/blob/main/SQL_Resume_Challenge.sql)
+-  [Output](https://github.com/SandeepChinta4/SQL-Consumer-Goods/tree/main/Output)
 
 ## 💡 **Conclusion**
 This challenge demonstrates the power of SQL in extracting and analyzing data from complex datasets. The solutions provided here offer insights into market operations, product performance, customer behavior, and more.
